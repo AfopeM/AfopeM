@@ -1,8 +1,8 @@
 ## Hi there, I'm Afope Matilukuro 👋
 #### QA Automation Engineer by day ⚙️ and Frontend Developer by design 🖥️
 
-Contract QA Automation Engineer at Silicon Blast, Canada;
-Building the test suites for what I ship, not just what I'm handed;
+Contract QA Automation Engineer at Silicon Blast, Canada;<br>
+Building the test suites for what I ship, not just what I'm handed;<br>
 
 - 🛠️ Daily stack: `TypeScript`, `Python`, `React`, `Next.js`, `SQL`
 - 🧪 Break things on purpose with: **Playwright**, **Vitest**, **Cypress**, **Postman**
